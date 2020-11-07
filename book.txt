@@ -1,0 +1,5 @@
+       A01||               DATABASE SYSTEM||                            12||                                    4.60
+       A02||                DISCRETE MATHS||                            84||                                   71.30
+       A05||                KEY TO SUCCESS||                            45||                                   78.20
+       A08||                ALOGRITHM EASY||                            21||                                   12.60
+       A09||                      4 SEASON||                            45||                                   12.30
